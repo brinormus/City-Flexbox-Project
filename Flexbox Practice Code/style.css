@@ -41,21 +41,7 @@ div {
 .box-item-3 {
     justify-content: inherit;
 }
-.box-item-4 {
-    width: 300px;
-    height: 300px;
-    align-self:flex-end;
-}
-.box-item-5 {
-    width: 300px;
-    height: 300px;
-    align-self:flex-end;
-}
-.box-item-6 {
-    width: 300px;
-    height: 300px;
-    align-self:flex-end;
-}
+
 footer {
     padding: 55px 0px 0px 0px;
     color: white;
